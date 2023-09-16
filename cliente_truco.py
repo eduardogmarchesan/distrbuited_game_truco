@@ -264,7 +264,7 @@ while not finalizado:
         print ("\nPlayer 2 venceu a partida")
         finalizado = True
     
-
+sock_dados.close()
 
 
 
